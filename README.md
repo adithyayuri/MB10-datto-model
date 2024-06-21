@@ -1,12 +1,12 @@
 # MB10-datto-model
 Gigabyte MB10 Datto ITX motherboard Fusion 360 3d model files
 
-![](/Images/5)
+![1](/Images/5.png)
 
-![](/Images/4)
+![2](/Images/4.png)
 
-![](/Images/6)
+![3](/Images/6.png)
 
-![](/Images/7)
+![4](/Images/7.png)
 
-![](/Images/8)
+![5](/Images/8.png)
